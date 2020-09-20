@@ -1,3 +1,5 @@
 first file in git hub training
 
 file is upadated in remote 
+
+more information is added to remote repository 
