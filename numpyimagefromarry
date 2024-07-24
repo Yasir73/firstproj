@@ -1,0 +1,5 @@
+import numpy as np
+from PIL import Image
+image=np.array (['009203367377913'],dtype='uint8')
+image =Image.fromarray(image)
+image.save('1.jpg')
