@@ -253,3 +253,7 @@
 print("second file")
 #lkjkjlkjkj
 # rrttrerttrrretrtrt
+def cel(far):
+	cel=20
+	return (far-cel)*9/3
+print(cel(80))
